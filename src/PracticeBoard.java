@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class ExampleCode {
+
+
+public class PracticeBoard {
+
+
+
+
 }

@@ -1,10 +1,10 @@
 import java.util.*;
 
-public class ReverseWordV2 {
+public class ReverseWordS2 {
 
 
     public static void main(String[] args) {
-        ReverseWordV2 T = new ReverseWordV2();
+        ReverseWordS2 T = new ReverseWordS2();
         Scanner kb = new Scanner(System.in);
         int n = kb.nextInt();
         String[] str = new String[n];
@@ -23,7 +23,7 @@ public class ReverseWordV2 {
             int lt = 0;
             int rt = x.length()-1;
             while (lt<rt) {
-                char tmp = s[rt];
+                char tmp = s[lt];
                 s[lt] = s[rt];
                 s[rt] = tmp;
                 lt++;

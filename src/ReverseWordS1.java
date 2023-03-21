@@ -1,10 +1,10 @@
 import java.util.*;
 
-public class ReverseWordV1 {
+public class ReverseWordS1 {
 
 
     public static void main(String[] args) {
-        ReverseWordV1 T = new ReverseWordV1();
+        ReverseWordS1 T = new ReverseWordS1();
         Scanner kb = new Scanner(System.in);
         int n = kb.nextInt();
         String[] str = new String[n];
