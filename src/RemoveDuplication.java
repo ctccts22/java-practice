@@ -2,8 +2,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 /*
-gooG
-YES
+Ksekkset
+kset
  */
 public class RemoveDuplication {
     public String solution(String str) {
